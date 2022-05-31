@@ -20,7 +20,7 @@ export default function HeaderCartButton(props) {
             <CartIcon />
         </span>
 
-        <span>Your cart</span>
+        <span>Carrinho</span>
 
         <span className={classes.badge}>{numberOfCartItems}</span>
     </button>
