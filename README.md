@@ -1,2 +1,5 @@
-# FOOD ORDER APP
-Aplicativo de comida desenvolvido com React JS
+# ReactMeals
+### Aplicativo de comida desenvolvido com React JS
+
+* Gerencie seus pedidos
+* Carrinho de compras
