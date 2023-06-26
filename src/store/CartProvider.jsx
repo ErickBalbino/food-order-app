@@ -43,7 +43,7 @@ const cartReducer = (state, action) => {
         const updatedTotalAmount = state.totalAmount - existingItem.price
         let updatedItems
 
-        if(state.totalAmount == -0.00){
+        if(state.totalAmount === -0.00){
             state.totalAmount = 0.00
         }
 
